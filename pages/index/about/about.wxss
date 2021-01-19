@@ -1,0 +1,4 @@
+/* pages/index/about/about.wxss */
+.title{
+  color: pink;
+}
